@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child:Text('đâsdsađâsdasdasdada',style: TextStyle(color: Colors.white),)
+      child:Text('tao la 1',style: TextStyle(color: Colors.white),)
     );
   }
 }
